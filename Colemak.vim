@@ -6,7 +6,7 @@ function! BindColemak()
     noremap n j
     noremap j n
     
-    # Swapping e and k 
+    " Swapping e and k 
     noremap e k
     noremap k e
     
